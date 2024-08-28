@@ -38,8 +38,8 @@ jobs:
         run: |
           cp -R public/* built-site/
           cd built-site
-          git config user.name 'dhij'
-          git config user.email 'davidhwang.ij@gmail.com'
+          git config user.name 'incendies'
+          git config user.email 'yunusemreozdiyar@gmail.com'
           git add .
           git commit -m 'Updated site' || echo "No changes to commit"
           git push
