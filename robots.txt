@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://incendies.github.io/emreozdiyar-blog/sitemap.xml
