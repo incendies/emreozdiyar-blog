@@ -2,7 +2,7 @@ baseURL: "https://incendies.github.io/emreozdiyar-blog/"
 languageCode: "en-us"
 title: "My New Personal Website"
 theme: "PaperMod"
-summaryLength: 10
+summaryLength: 0
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -17,10 +17,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  title: Yunus Emre Özdiyar's Website
+  description: "This is a Yunus Emre Özdiyar's site."
+  keywords: [Blog, Portfolio, CV, AI, Website, Yunus Emre Özdiyar]
+  author: Yunus Emre Özdiyar
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -74,7 +74,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "👋 Welcome to Yunus Emre Özdiyar’s Matrix World \U0001F44B"
+    Title: "\U0001F44B Welcome to Yunus Emre Özdiyar’s Matrix World"
     Content: Hi, this is Yunus Emre. I’m documenting my notes in this blog. Besides, I’m always searching for what’s new on the internet and working around so much programming stuff. My main focus is AI, game development and financial world like stocks or blockchain. You can always send me a message via e-mail or my social media platforms. Also, my previous works follow creating websites around SEO and I already exit them for discover new horizons.
 
 
