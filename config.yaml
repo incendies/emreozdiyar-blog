@@ -2,7 +2,7 @@ baseURL: "https://incendies.github.io/emreozdiyar-blog/"
 languageCode: "en-us"
 title: "Yunus Emre Özdiyar's Website"
 theme: "PaperMod"
-summaryLength: 0
+summaryLength: 10
 
 enableRobotsTXT: true
 buildDrafts: false
