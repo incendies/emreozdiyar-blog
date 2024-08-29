@@ -1,8 +1,8 @@
 baseURL: "https://incendies.github.io/emreozdiyar-blog/"
 languageCode: "en-us"
-title: "My New Personal Website"
+title: "Yunus Emre Özdiyar's Website"
 theme: "PaperMod"
-summaryLength: 0
+summaryLength: 10
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -18,7 +18,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Yunus Emre Özdiyar's Website
-  description: "This is a Yunus Emre Özdiyar's site."
+  description: "This is a Yunus Emre Özdiyar's website."
   keywords: [Blog, Portfolio, CV, AI, Website, Yunus Emre Özdiyar]
   author: Yunus Emre Özdiyar
   # author: ["Me", "You"] # multiple authors
@@ -121,7 +121,7 @@ menu:
     - identifier: posts
       name: posts
       url: /posts/
-      weight: 10
+      weight: 1
     - identifier: categories
       name: categories
       url: /categories/
