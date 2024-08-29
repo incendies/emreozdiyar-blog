@@ -121,19 +121,19 @@ menu:
     - identifier: posts
       name: posts
       url: /posts/
-      weight: 0
+      weight: 10
     - identifier: categories
       name: categories
       url: /categories/
-      weight: 10
+      weight: 20
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 20
+      weight: 30
     - identifier: CV
       name: CV
       url: https://incendies.github.io/emreozdiyarcv/
-      weight: 30
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
