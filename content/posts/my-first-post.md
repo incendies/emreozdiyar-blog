@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
-date: 2024-08-28
+date: 2024-08-29
 draft: false
 ---
 
-First articles of the launch
+Content of the post goes here...

@@ -2,7 +2,7 @@ baseURL: "https://incendies.github.io/emreozdiyar-blog/"
 languageCode: "en-us"
 title: "Yunus Emre Özdiyar's Website"
 theme: "PaperMod"
-summaryLength: 10
+summaryLength: 0
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -76,7 +76,7 @@ params:
   homeInfoParams:
     Title: "\U0001F44B Welcome to Yunus Emre Özdiyar’s Matrix World"
     Content: Hi, this is Yunus Emre. I’m documenting my notes in this blog. Besides, I’m always searching for what’s new on the internet and working around so much programming stuff. My main focus is AI, game development and financial world like stocks or blockchain. You can always send me a message via e-mail or my social media platforms. Also, my previous works follow creating websites around SEO and I already exit them for discover new horizons.
-
+    layout: "list" # list, grid
 
 
   socialIcons:
@@ -126,14 +126,10 @@ menu:
       name: categories
       url: /categories/
       weight: 20
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 30
     - identifier: CV
       name: CV
       url: https://incendies.github.io/emreozdiyarcv/
-      weight: 40
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
