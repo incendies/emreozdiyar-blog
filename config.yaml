@@ -118,6 +118,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 0
     - identifier: categories
       name: categories
       url: /categories/
