@@ -137,6 +137,10 @@ menu:
       name: search
       url: /search/
       weight: 30
+    - identifier: archive
+      name: archives
+      url: /archives/
+      weight: 50
     - identifier: CV
       name: CV
       url: https://incendies.github.io/emreozdiyarcv/
