@@ -7,4 +7,3 @@ summary: "search"
 placeholder: "just search"
 ---
 
-<p>Use the search box above to find content on this site.</p>

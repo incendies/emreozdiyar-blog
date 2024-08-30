@@ -11,6 +11,21 @@
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/emreozdiyar-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content</title>
+      <link>http://localhost:1313/emreozdiyar-blog/tags/content/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/emreozdiyar-blog/tags/content/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Content</title>
+      <link>http://localhost:1313/emreozdiyar-blog/tags/first-content/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/emreozdiyar-blog/tags/first-content/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
