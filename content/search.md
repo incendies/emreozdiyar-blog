@@ -4,5 +4,7 @@ layout: "search" # necessary for search
 # url: "/archive"
 # description: "Description for Search"
 summary: "search"
-placeholder: "placeholder text in search input box"
+placeholder: "just search"
 ---
+
+<p>Use the search box above to find content on this site.</p>
