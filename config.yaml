@@ -137,14 +137,14 @@ menu:
       name: search
       url: /search/
       weight: 30
-    - identifier: archive
+    - identifier: archives
       name: archives
       url: /archives/
-      weight: 50
+      weight: 40
     - identifier: CV
       name: CV
       url: https://incendies.github.io/emreozdiyarcv/
-      weight: 40
+      weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
