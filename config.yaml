@@ -2,7 +2,7 @@ baseURL: "https://incendies.github.io/emreozdiyar-blog/"
 languageCode: "en-us"
 title: "Yunus Emre Özdiyar's Website"
 theme: "PaperMod"
-summaryLength: 10
+summaryLength: 30
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -14,6 +14,12 @@ buildExpired: false
 minify:
   disableXML: true
   minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -74,7 +80,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "\U0001F44B Welcome to Yunus Emre Özdiyar’s Matrix World"
+    Title: "\U0001F44B Welcome to Yunus Emre Özdiyar’s Matrix!"
     Content: Hi, this is Yunus Emre. I’m documenting my notes in this blog. Besides, I’m always searching for what’s new on the internet and working around so much programming stuff. My main focus is AI, game development and financial world like stocks or blockchain. You can always send me a message via e-mail or my social media platforms. Also, my previous works follow creating websites around SEO and I already exit them for discover new horizons.
     layout: "list" # list, grid
     hidden: false
@@ -115,7 +121,7 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
@@ -127,10 +133,14 @@ menu:
       name: categories
       url: /categories/
       weight: 20
+    - identifier: search 
+      name: search
+      url: /search/
+      weight: 30
     - identifier: CV
       name: CV
       url: https://incendies.github.io/emreozdiyarcv/
-      weight: 30
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

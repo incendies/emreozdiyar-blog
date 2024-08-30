@@ -13,6 +13,8 @@
   </url><url>
     <loc>http://localhost:1313/emreozdiyar-blog/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/emreozdiyar-blog/search/</loc>
+  </url><url>
     <loc>http://localhost:1313/emreozdiyar-blog/tags/</loc>
   </url>
 </urlset>
