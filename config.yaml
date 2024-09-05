@@ -129,6 +129,10 @@ menu:
       name: posts
       url: /posts/
       weight: 1
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 10
     - identifier: categories
       name: categories
       url: /categories/
