@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/emreozdiyar-blog/tags/article/</loc>
+    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/emreozdiyar-blog/tags/first-content/</loc>
+    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/emreozdiyar-blog/</loc>
-    <lastmod>2024-09-08T03:21:48+00:00</lastmod>
+    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/emreozdiyar-blog/posts/my-first-post/</loc>
+    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/emreozdiyar-blog/posts/</loc>
-    <lastmod>2024-09-08T03:21:48+00:00</lastmod>
+    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/emreozdiyar-blog/tags/</loc>
+    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/emreozdiyar-blog/about/</loc>
     <lastmod>2023-03-21T12:40:07+06:00</lastmod>
@@ -16,7 +28,5 @@
     <loc>http://localhost:1313/emreozdiyar-blog/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/emreozdiyar-blog/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/emreozdiyar-blog/tags/</loc>
   </url>
 </urlset>
