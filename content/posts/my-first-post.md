@@ -1,9 +1,36 @@
 ---
-title: "My First Article"
-date: 2024-08-28
+title: "How much do I earn from Google Adsense (Raptive) with 250,000 pageviews?"
+date: 2024-09-08T03:21:48
 draft: false
 tags: ["first content", "article"]
 ---
 
-Content of the post goes here...
-lets write something!!
+Hello,
+
+I’m Yunus Emre for now from the Earth. I first started making money online early 20+, in the early period of the 2010s. When I started to learn website development I created a basic website with some of the HTML + CSS with PHP coding. Then I learned some basic mobile development and created some apps for Android with Java in 2014. After that, I lost my enthusiasm for mobile application development because Android so slow for me. Also, I have created some Turkish websites to create original content for Turkish users. But this is so taught due to I can’t earn enough money to live my life.
+
+After struggling to earn money with my Turkish website (sertsesli.com) I focusing on my privilege to create quality English content. I think this is one of the best decisions in my life.
+
+For this English content website, I used WordPress probably the biggest CMS on the internet. And using some of the security plugins, bot protection, and cors headers protection on my websites (I recommended to use)
+
+As I was consistently feeding Google Search indexes with new content, my website quickly started to receive between 3000 to 35000 visits a day. But with this, I didn’t earn much money only I earn 150 Euro or more per month. So, I searching for some other Google Adsense alternative like Adthrive or Mediavine. And, Adthrive accepted my website that also want at least 100,000 unique visitors per month. My site was accepted because it lay down all the conditions.
+
+Before I move on to my impressions and earnings reports you can check Shelby Church’s article on how much YouTubers earn from their content for 1,000,000 viewed videos below.
+
+https://onezero.medium.com/this-is-how-much-youtube-paid-me-for-my-1-000-000-viewed-video-1453cad73847
+
+As you can see from the stats, the site received 241,990 page views for ad requests in November. Content length on this website is usually between 300–800 words per page. This report belongs to my unique Google News approved website (chaospin.com)
+
+For this website, my traffic is from the US or other English speaking countries. RPM is $12.10
+
+As you can see from the stats, the site received 66,726 page views for ad requests in November. Content length on this website is usually between 400–1000 words per page. This report belongs to mine another Google News approved website for Netflix’s contents (netflixjunkie.com)
+
+Also, for this website, my traffic is from the US or other English speaking countries like my general music, anime, film, games focused website above — RPM is $7.11
+
+On above Shelby Church’s article, said on average she made around $1,500 to $4,500 for her videos that have over 1,000,000 views. According to our reports, we can earn between $8,000 or $15,000 per 1,000,000 pageviews.
+
+Some of my favorite quotes from creative peoples:
+
+“Your time is limited, so don’t waste it living someone else’s life.” and “Stay hungry. Stay foolish.” — Steve Jobs
+
+“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” — Richard P. Feynman

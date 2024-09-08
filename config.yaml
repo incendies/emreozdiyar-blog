@@ -3,6 +3,8 @@ languageCode: "en-us"
 title: "Yunus Emre Özdiyar's Website"
 theme: "PaperMod"
 summaryLength: 30
+paginate: 10  # This determines how many posts to show on the homepage.
+
 
 enableRobotsTXT: true
 buildDrafts: false
